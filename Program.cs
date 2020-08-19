@@ -7,7 +7,7 @@ namespace github_tests
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Added super duper new function")
+            Console.WriteLine("Added super duper new function");
         }
     }
 }
